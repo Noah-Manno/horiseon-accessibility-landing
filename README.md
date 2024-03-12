@@ -35,3 +35,12 @@ All images have alt attributes for screen readers. Feel free to peruse the html 
 ## License
 
 Please refer to the LICENSE in the repo. 
+
+## Deployment 
+
+Github Repository: https://github.com/Noah-Manno/horiseon-accessibility-landing
+
+Deployed Site: https://noah-manno.github.io/horiseon-accessibility-landing/
+
+![site screenshot](/assets/images/horiseon%20copy.png)
+
